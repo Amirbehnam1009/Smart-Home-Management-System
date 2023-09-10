@@ -1,0 +1,28 @@
+Command line:
+   CoolHeatSystem_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52962
+
+Thu Feb 04 19:12:12 2021
+
+
+ Elaboration Time: 0.202802 sec
+
+ Current Memory Usage: 667.525 Meg
+
+ Total Signals          : 24
+ Total Nets             : 37
+ Total Signal Drivers   : 8
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 11
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 163
+
+ Total Simulation Time: 0.202802 sec
+
+ Current Memory Usage: 667.525 Meg
+
+Thu Feb 04 19:12:31 2021
+

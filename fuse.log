@@ -1,0 +1,56 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/dr. Behnam/Downloads/SmartHomeSystem/tbSmartHomeSystem_isim_beh.exe -prj C:/Users/dr. Behnam/Downloads/SmartHomeSystem/tbSmartHomeSystem_beh.prj work.tbSmartHomeSystem work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/AddSub1B.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/WindowShadeDegree.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/PassCheckUnit.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/Multiplier8x8.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/Multiplier16x16.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/ModePower.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/LampState.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/FanSpeed.v" into library work
+WARNING:HDLCompiler:568 - "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/FanSpeed.v" Line 39: Constant value is truncated to fit in <7> bits.
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/DFlop.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/AdderSubtractor32x32.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/ActiveLamps.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/TemperatureCalculator.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/MemoryUnit.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/LightingSystem.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/LightDance.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/GasDetectorSensor.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/CoolHeatSystem.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/ControlUnit.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/SmartHomeSystem.v" into library work
+Analyzing Verilog file "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/tbSmartHomeSystem.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Multiplier8x8
+Compiling module Multiplier16x16
+Compiling module AddSub1B
+Compiling module AdderSubtractor32x32
+Compiling module TemperatureCalculator
+Compiling module GasDetectorSensor
+Compiling module ModePower
+Compiling module FanSpeed
+Compiling module CoolHeatSystem
+Compiling module ActiveLamps
+Compiling module LampState
+Compiling module WindowShadeDegree
+Compiling module LightingSystem
+Compiling module DFlop
+Compiling module LightDance
+Compiling module PassCheckUnit
+Compiling module ControlUnit
+Compiling module MemoryUnit
+Compiling module SmartHomeSystem
+Compiling module tbSmartHomeSystem
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 14 sub-compilation(s) to finish...
+Compiled 21 Verilog Units
+Built simulation executable C:/Users/dr. Behnam/Downloads/SmartHomeSystem/tbSmartHomeSystem_isim_beh.exe
+Fuse Memory Usage: 28328 KB
+Fuse CPU Usage: 1824 ms

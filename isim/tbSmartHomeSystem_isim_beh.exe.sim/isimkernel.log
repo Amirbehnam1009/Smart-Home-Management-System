@@ -1,0 +1,28 @@
+Command line:
+   tbSmartHomeSystem_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52158
+
+Sun Feb 07 13:46:42 2021
+
+
+ Elaboration Time: 0.312003 sec
+
+ Current Memory Usage: 671.171 Meg
+
+ Total Signals          : 513
+ Total Nets             : 625
+ Total Signal Drivers   : 310
+ Total Blocks           : 59
+ Total Primitive Blocks : 51
+ Total Processes        : 335
+ Total Traceable Variables  : 96
+ Total Scalar Nets and Variables : 1193
+
+ Total Simulation Time: 0.358803 sec
+
+ Current Memory Usage: 671.171 Meg
+
+Sun Feb 07 13:46:59 2021
+

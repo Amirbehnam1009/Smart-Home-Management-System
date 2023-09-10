@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/tbSmartHomeSystem_isim_beh.exe" -prj "C:/Users/dr. Behnam/Downloads/SmartHomeSystem/tbSmartHomeSystem_beh.prj" "work.tbSmartHomeSystem" "work.glbl" 
