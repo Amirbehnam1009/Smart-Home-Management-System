@@ -60,6 +60,7 @@ This repository contains the design and implementation of a **Smart Home Managem
 ---
 
 ## 📂 Repository Structure  
+```
 Smart-Home-Management-System/
 ├── Temperature_Sensor/ # Multipliers, adder/subtractor
 ├── Gas_Sensor/ # Moore machine implementation
@@ -68,7 +69,7 @@ Smart-Home-Management-System/
 ├── Memory/ # Register file
 ├── Control_Unit/ # FSM and top-level control
 └── Integration/ # Full system integration
-
+```
 ## 📝 Usage  
 ### Simulation  
 ```bash
