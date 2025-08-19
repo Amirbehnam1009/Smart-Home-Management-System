@@ -1,6 +1,6 @@
 # Smart Home Management System  
 **Final Project for Logic Circuits Course**  
-**Fall 2020**  
+**Fall 2020** 
 
 ![Smart Home Management System](https://via.placeholder.com/800x400?text=Smart+Home+Management+System)   
 
